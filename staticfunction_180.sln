@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfunction2_180", "stat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chainfunction_180", "chainfunction_180\chainfunction_180.vcxproj", "{664AF76D-2974-4E8B-B98D-BC968924C27A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "destruktor_180", "destruktor_180\destruktor_180.vcxproj", "{77AFCEC9-2F4E-470A-9E62-B561CCC13936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{664AF76D-2974-4E8B-B98D-BC968924C27A}.Release|x64.Build.0 = Release|x64
 		{664AF76D-2974-4E8B-B98D-BC968924C27A}.Release|x86.ActiveCfg = Release|Win32
 		{664AF76D-2974-4E8B-B98D-BC968924C27A}.Release|x86.Build.0 = Release|Win32
+		{77AFCEC9-2F4E-470A-9E62-B561CCC13936}.Debug|x64.ActiveCfg = Debug|x64
+		{77AFCEC9-2F4E-470A-9E62-B561CCC13936}.Debug|x64.Build.0 = Debug|x64
+		{77AFCEC9-2F4E-470A-9E62-B561CCC13936}.Debug|x86.ActiveCfg = Debug|Win32
+		{77AFCEC9-2F4E-470A-9E62-B561CCC13936}.Debug|x86.Build.0 = Debug|Win32
+		{77AFCEC9-2F4E-470A-9E62-B561CCC13936}.Release|x64.ActiveCfg = Release|x64
+		{77AFCEC9-2F4E-470A-9E62-B561CCC13936}.Release|x64.Build.0 = Release|x64
+		{77AFCEC9-2F4E-470A-9E62-B561CCC13936}.Release|x86.ActiveCfg = Release|Win32
+		{77AFCEC9-2F4E-470A-9E62-B561CCC13936}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
